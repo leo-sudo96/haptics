@@ -1,0 +1,187 @@
+﻿  Source.cpp
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35,7): error C2146: syntax error: missing ';' before identifier 'HHD'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39,23): error C2146: syntax error: missing ';' before identifier 'hdMakeCurrentDevice'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39,51): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(42,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(42,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(42,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(42,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(42,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(42,23): error C2146: syntax error: missing ';' before identifier 'hdDisableDevice'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(42,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(45,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(45,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(45,7): error C2146: syntax error: missing ';' before identifier 'HHD'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(50,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(50,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(50,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(50,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(50,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(50,23): error C2146: syntax error: missing ';' before identifier 'hdBeginFrame'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(50,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(51,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(51,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(51,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(51,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(51,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(51,23): error C2146: syntax error: missing ';' before identifier 'hdEndFrame'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(51,42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(55,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(55,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(55,7): error C2146: syntax error: missing ';' before identifier 'HDErrorInfo'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(59,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(59,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(59,7): error C2146: syntax error: missing ';' before identifier 'HDstring'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(63,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(63,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(63,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(63,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(63,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(63,23): error C2146: syntax error: missing ';' before identifier 'hdEnable'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(63,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(64,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(64,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(64,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(64,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(64,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(64,23): error C2146: syntax error: missing ';' before identifier 'hdDisable'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(64,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(65,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(65,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(65,7): error C2146: syntax error: missing ';' before identifier 'HDboolean'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(69,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(69,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(69,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(69,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(69,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(69,23): error C2146: syntax error: missing ';' before identifier 'hdGetBooleanv'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(69,69): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(70,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(70,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(70,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(70,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(70,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(70,23): error C2146: syntax error: missing ';' before identifier 'hdGetIntegerv'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(70,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(71,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(71,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(71,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(71,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(71,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(71,23): error C2146: syntax error: missing ';' before identifier 'hdGetFloatv'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(71,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(72,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(72,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(72,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(72,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(72,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(72,23): error C2146: syntax error: missing ';' before identifier 'hdGetDoublev'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(72,67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(73,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(73,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(73,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(73,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(73,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(73,23): error C2146: syntax error: missing ';' before identifier 'hdGetLongv'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(73,63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(74,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(74,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(74,7): error C2146: syntax error: missing ';' before identifier 'HDstring'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(78,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(78,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(78,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(78,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(78,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(78,23): error C2146: syntax error: missing ';' before identifier 'hdSetBooleanv'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(78,75): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(79,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(79,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(79,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(79,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(79,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(79,23): error C2146: syntax error: missing ';' before identifier 'hdSetIntegerv'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(79,71): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(80,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(80,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(80,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(80,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(80,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(80,23): error C2146: syntax error: missing ';' before identifier 'hdSetFloatv'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(80,71): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(81,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(81,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(81,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(81,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(81,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(81,23): error C2146: syntax error: missing ';' before identifier 'hdSetDoublev'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(81,73): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(82,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(82,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(82,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(82,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(82,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(82,23): error C2146: syntax error: missing ';' before identifier 'hdSetLongv'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(82,69): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(85,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(85,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(85,7): error C2146: syntax error: missing ';' before identifier 'HDenum'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(86,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(86,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(86,7): error C2146: syntax error: missing ';' before identifier 'HDenum'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(87,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(87,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(87,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(87,12): error C2182: 'HDAPIENTRY': illegal use of type 'void'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(87,12): error C2086: 'int HDAPIENTRY': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(39): message : see declaration of 'HDAPIENTRY'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(87,23): error C2146: syntax error: missing ';' before identifier 'hdUpdateCalibrationMessage'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(87,63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(88,7): error C2144: syntax error: 'void' should be preceded by ';'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(88,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(88,1): error C2086: 'int HDAPI': redefinition
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(35): message : see declaration of 'HDAPI'
+C:\OpenHaptics\Developer\3.5.0\include\HD\hdDevice.h(88,12): fatal error C1003: error count exceeds 100; stopping compilation
